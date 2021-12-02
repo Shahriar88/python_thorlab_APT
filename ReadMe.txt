@@ -38,6 +38,7 @@ pip install thorlabs-apt-protocol==25.2.0
 pip install pandas==1.3.3
 pip install numpy==1.19.2
 pip install tkintertable==1.3.3
+pip install pyserial==3.5
 
 	
 
