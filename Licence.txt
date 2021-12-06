@@ -1,3 +1,4 @@
 1. No liabilities
 2. No Warranty
 3. Anyone can use upon their own responsibilities.
+4. If you are using this code of software for any publication, please use the citation from cite.bib
